@@ -61,6 +61,17 @@
   ]
 ```
 
+#### example
+
++ request
+`http://localhost:9000/calculate_sum?a=1.2&b=2.3`
++ response
+```json
+  {
+    "c" : 3.5
+  }
+```
+
 
 
 
