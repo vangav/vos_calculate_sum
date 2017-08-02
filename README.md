@@ -63,16 +63,18 @@
 
 #### example
 
-+ request
-`http://localhost:9000/calculate_sum?a=1.2&b=2.3`
-+ response
++ request: `http://localhost:9000/calculate_sum?a=1.2&b=2.3`
++ response:
 ```json
   {
     "c" : 3.5
   }
 ```
 
+## change log
 
++ this section lists the 10-% code added after vangav backend generated 90+% of the code
 
-
-
+| file/dir | change |
+| -------- | ------ |
+| [HandlerCalculateSum](https://github.com/vangav/vos_calculate_sum/blob/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum/HandlerCalculateSum.java) | [processRequest](https://github.com/vangav/vos_calculate_sum/blob/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum/HandlerCalculateSum.java#L86): added request-to-response logic |
