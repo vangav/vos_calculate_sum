@@ -5,6 +5,15 @@
 
 + calculate sum service is generated using [vangav backend](https://github.com/vangav/vos_backend)
 
+## index
+
++ [prerequisites](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#prerequisites)
++ [functionality](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#functionality)
++ [overview](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#overview)
++ [features](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#features)
++ [api](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#api)
++ [change log](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#change-log)
+
 ## prerequisites
 
 + [vangav backend tutorials](https://github.com/vangav/vos_backend)
