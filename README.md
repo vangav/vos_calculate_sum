@@ -32,6 +32,11 @@
 
 1. *for first timers* - follow the steps in the [system requirements tutorial](https://github.com/vangav/vos_backend#system-requirements)
 2. *for first timers* - follow the steps in the [workspace initialization tutorial](https://github.com/vangav/vos_backend#init)
+3. download this `vos_calculate_sum.zip` project (from the green `clone or download` button up there) inside the workspace directory created previously (`my_services`) and unzip it
+4. **rename** unzipped `vos_calculate_sum-master` to `vos_calculate_sum`
+5. in the terminal `cd` to `vos_calculate_sum`
+6. start the service: `./_run.sh`
+7. from your prefered client (*we recommned* [postman](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)) start trying the service; refer to the [features](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#features) and [api](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#api) sections for reference
 
 ## features
 
