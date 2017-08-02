@@ -37,7 +37,7 @@
 5. in the terminal `cd` to `vos_calculate_sum`
 6. start the service: `./_run.sh`
 7. from your prefered client (*we recommned* [postman](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)) start trying the service; refer to the [features](https://github.com/vangav/vos_calculate_sum#features) and [api](https://github.com/vangav/vos_calculate_sum#api) sections for reference
-+ at the end to stop the service: `control + d` in the terminal session where the service was started in (6)
++ at the end to stop the service: press `control + d` in the terminal session where the service was started in (6)
 
 ## features
 
