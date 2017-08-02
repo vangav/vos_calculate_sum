@@ -36,7 +36,7 @@
 4. **rename** unzipped `vos_calculate_sum-master` to `vos_calculate_sum`
 5. in the terminal `cd` to `vos_calculate_sum`
 6. start the service: `./_run.sh`
-7. from your prefered client (*we recommned* [postman](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)) start trying the service; refer to the [features](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#features) and [api](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#api) sections for reference
+7. from your prefered client (*we recommned* [postman](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)) start trying the service; refer to the [features](https://github.com/vangav/vos_calculate_sum#features) and [api](https://github.com/vangav/vos_calculate_sum#api) sections for reference
 
 ## features
 
