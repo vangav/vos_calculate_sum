@@ -10,6 +10,7 @@
 + [prerequisites](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#prerequisites)
 + [functionality](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#functionality)
 + [overview](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#overview)
++ [try this service](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#try-this-service)
 + [features](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#features)
 + [api](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#api)
 + [change log](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#change-log)
@@ -26,6 +27,11 @@
 
 + this service is based on vangav backend's [calculate sum template](https://github.com/vangav/vos_backend/tree/master/vangav_backend_templates/vos_calculate_sum)
 + this service has the 90+% of the vangav backend's generated code + the 10-% of the logic code needed to complete the service
+
+## try this service
+
+1. *for first timers* - follow the steps in the [system requirements tutorial](https://github.com/vangav/vos_backend#system-requirements)
+2. *for first timers* - follow the steps in the [workspace initialization tutorial](https://github.com/vangav/vos_backend#init)
 
 ## features
 
