@@ -7,13 +7,13 @@
 
 ## index
 
-+ [prerequisites](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#prerequisites)
-+ [functionality](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#functionality)
-+ [overview](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#overview)
-+ [try this service](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#try-this-service)
-+ [features](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#features)
-+ [api](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#api)
-+ [change log](https://github.com/vangav/vos_calculate_sum/blob/master/README.md#change-log)
++ [prerequisites](https://github.com/vangav/vos_calculate_sum#prerequisites)
++ [functionality](https://github.com/vangav/vos_calculate_sum#functionality)
++ [overview](https://github.com/vangav/vos_calculate_sum#overview)
++ [try this service](https://github.com/vangav/vos_calculate_sum#try-this-service)
++ [features](https://github.com/vangav/vos_calculate_sum#features)
++ [api](https://github.com/vangav/vos_calculate_sum#api)
++ [change log](https://github.com/vangav/vos_calculate_sum#change-log)
 
 ## prerequisites
 
