@@ -56,6 +56,7 @@
 #### request
 
 ```json
+  "url": "/calculate_sum",
   "type": "GET",
   "request_params": [
     {
