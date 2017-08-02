@@ -49,6 +49,10 @@
 
 ### [calculate sum](https://github.com/vangav/vos_calculate_sum/tree/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum)
 
+#### brief
+
++ adds up two floating point numbers
+
 #### request
 
 ```json
