@@ -7,7 +7,7 @@
 
 ## index
 
-+ [prerequisites](https://github.com/vangav/vos_calculate_sum#prerequisites)
++ [prerequisite](https://github.com/vangav/vos_calculate_sum#prerequisite)
 + [functionality](https://github.com/vangav/vos_calculate_sum#functionality)
 + [overview](https://github.com/vangav/vos_calculate_sum#overview)
 + [try this service](https://github.com/vangav/vos_calculate_sum#try-this-service)
@@ -15,7 +15,7 @@
 + [api](https://github.com/vangav/vos_calculate_sum#api)
 + [change log](https://github.com/vangav/vos_calculate_sum#change-log)
 
-## prerequisites
+## prerequisite
 
 + [vangav backend tutorials](https://github.com/vangav/vos_backend)
 
