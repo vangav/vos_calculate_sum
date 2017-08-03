@@ -5,16 +5,6 @@
 
 + calculate sum service is generated using [vangav backend](https://github.com/vangav/vos_backend)
 
-## index
-
-+ [prerequisite](https://github.com/vangav/vos_calculate_sum#prerequisite)
-+ [functionality](https://github.com/vangav/vos_calculate_sum#functionality)
-+ [overview](https://github.com/vangav/vos_calculate_sum#overview)
-+ [try this service](https://github.com/vangav/vos_calculate_sum#try-this-service)
-+ [features](https://github.com/vangav/vos_calculate_sum#features)
-+ [api](https://github.com/vangav/vos_calculate_sum#api)
-+ [change log](https://github.com/vangav/vos_calculate_sum#change-log)
-
 ## prerequisite
 
 + [vangav backend tutorials](https://github.com/vangav/vos_backend)
@@ -45,57 +35,13 @@
 | ---------- | ------- |
 | [calculate sum](https://github.com/vangav/vos_calculate_sum/tree/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum) | adds up two floating point numbers |
 
-## api
+## service references
 
-### [calculate sum](https://github.com/vangav/vos_calculate_sum/tree/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum)
-
-#### brief
-
-+ adds up two floating point numbers
-
-#### request
-
-```json
-  "url": "/calculate_sum",
-  "type": "GET",
-  "request_params": [
-    {
-      "name": "a",
-      "type": "FLOAT",
-      "is_array": false,
-      "optionality": "MANDATORY"
-    },
-    {
-      "name": "b",
-      "type": "FLOAT",
-      "is_array": false,
-      "optionality": "MANDATORY"
-    }
-  ]
-```
-
-#### response
-
-```json
-  "response_type": "JSON",
-  "response_params": [
-    {
-      "name": "c",
-      "type": "double",
-      "is_array": false
-    }
-  ]
-```
-
-#### example
-
-+ request: `http://localhost:9000/calculate_sum?a=1.2&b=2.3`
-+ response:
-```json
-  {
-    "c" : 3.5
-  }
-```
+| reference | explanation |
+| --------- | ----------- |
+| [routes](https://github.com/vangav/vos_calculate_sum/blob/master/conf/routes) | api routes |
+| [controllers.json](https://github.com/vangav/vos_calculate_sum/blob/master/generator_config/controllers.json) | api request/response's elements |
+| [controllers](https://github.com/vangav/vos_calculate_sum/tree/master/app/com/vangav/vos_calculate_sum/controllers) | api implementation |
 
 ## change log
 
