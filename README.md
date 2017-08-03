@@ -49,4 +49,4 @@
 
 | file/dir | change |
 | -------- | ------ |
-| [HandlerCalculateSum](https://github.com/vangav/vos_calculate_sum/blob/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum/HandlerCalculateSum.java) | [processRequest](https://github.com/vangav/vos_calculate_sum/blob/master/app/com/vangav/vos_calculate_sum/controllers/calculate_sum/HandlerCalculateSum.java#L86): added request-to-response logic |
+| [controllers](https://github.com/vangav/vos_calculate_sum/tree/master/app/com/vangav/vos_calculate_sum/controllers) | added the implementation of request-to-response logic in `processRequest` methods under `controller_name/HandlerControllerName.java` classes |
