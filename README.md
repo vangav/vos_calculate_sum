@@ -1,5 +1,5 @@
 
-### [![YouTube Play Icon](http://extensiondl.maxthon.com/skinpack/842028/1404121512/icons/icon_32.png)](https://www.youtube.com/watch?v=v3PxKDMehvY&index=2&list=PLTcKayTjao6rOj02gtRdiVhvzB1SWGyhv) learn more on [YouTube](https://www.youtube.com/watch?v=v3PxKDMehvY&index=2&list=PLTcKayTjao6rOj02gtRdiVhvzB1SWGyhv)
+### [![YouTube Play Icon](http://youtube.com/favicon.ico)](https://www.youtube.com/watch?v=v3PxKDMehvY&list=PLTcKayTjao6rOj02gtRdiVhvzB1SWGyhv&index=2) **on [YouTube](https://www.youtube.com/watch?v=v3PxKDMehvY&list=PLTcKayTjao6rOj02gtRdiVhvzB1SWGyhv&index=2)**
 
 > **why?** calculate sum is used as a quick start template for [vangav backend](https://github.com/vangav/vos_backend) to help new users get to speed within the first 10 minutes; this template covers all the core basics to develop a fully functional backend service without a database
 
